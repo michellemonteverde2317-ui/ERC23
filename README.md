@@ -1,4 +1,4 @@
-# ERC23 token standard
+...# ERC23 token standard
 ERC23 is a superset of the ERC20 Ethereum token standaard.
 
 Thanks to Dexaran
